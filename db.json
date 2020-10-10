@@ -1,0 +1,56 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Muhammad Usama Sohail",
+      "email": "usamasohail@gmail.com",
+      "dept": "React Development",
+      "contact": "03472292453",
+      "salary": "50000"
+    },
+    {
+      "id": 2,
+      "name": "Muhammad Huzaifa Khan",
+      "email": "huzaifakhan@gmail.com",
+      "dept": "Web Dev - Lead",
+      "contact": "03122293253",
+      "salary": "52000"
+    },
+    {
+      "name": "SM Asad Ali Zaidi",
+      "email": "syedasad@gmail.com",
+      "dept": "Mobile App Dev",
+      "contact": "03233333333",
+      "salary": "80000",
+      "id": 4
+    },
+    {
+      "name": "Muhammad Arsalan",
+      "email": "arsalan@gmail.com",
+      "dept": "IT",
+      "contact": "03122228376",
+      "salary": "60000",
+      "id": 5
+    }
+  ],
+  "contact": [
+    {
+      "id": 1,
+      "name": "Saad Hashim",
+      "email": "saadhashim@gmail.com",
+      "query": "Testing Query"
+    },
+    {
+      "name": "Muhammad Huzaifa Khan",
+      "email": "huzaifanadir1997@gmail.com",
+      "query": "Testing Query 2",
+      "id": 2
+    },
+    {
+      "name": "Muhammad Huzaifa Khan",
+      "email": "huzaifanadir1997@gmail.com",
+      "query": "Testing Query 03",
+      "id": 3
+    }
+  ]
+}
